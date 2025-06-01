@@ -1,4 +1,4 @@
-It's a demonstration of gRPC in golang.
+# gRPC in golang.
 
 ### Steps
 - Clone the repository.
