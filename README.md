@@ -1,4 +1,4 @@
-# gRPC in golang.
+# gRPC in GoLang
 
 ### Steps
 - Clone the repository.
